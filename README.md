@@ -1,4 +1,4 @@
-Ready to roll framework
+PHP Framwork and along with some addons
 =================
 
 Contains the following:
