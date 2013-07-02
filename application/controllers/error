@@ -1,0 +1,14 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class Error extends CI_Controller {
+
+	public function bad_uri()
+	{
+		$this->load->library('template');
+		$this->template->load('default', 'error_404');
+		//$this->load->view('style');
+	}
+}
+
+/* End of file error.php */
+/* Location: ./application/controllers/error.php */

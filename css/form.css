@@ -1,0 +1,13 @@
+.field-slot{
+	display:none;
+	
+}
+
+.help-block{
+	margin-top: -10px;
+	color: red;
+}
+
+#ui-datepicker-div{
+	z-index: 99 !important;
+}
