@@ -7,7 +7,7 @@
 
     
 
-    <title>Rock Solid Security</title>
+    <title>Your Home Page</title>
 
     <link href='/css/google_fonts.css' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
