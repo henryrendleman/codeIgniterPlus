@@ -14,7 +14,7 @@ font-awesome<br>
 Files still need attention, coming soon.
 <h3>Get Started</h3>
   <ol>
-  <li>Install LAMP, WAMP or whatever to get PHP, MySQL </li>
+  <li>Install LAMP, WAMP or whatever to get PHP, MySQL:  http://www.wampserver.com/en/</li>
   <li>download code:  git clone github.com/henryrendleman/codeIgniterPlus</li>
   </ol>
   
