@@ -12,3 +12,9 @@ jQuery & jQuery UI<br>
 font-awesome<br>
 <h3>Files still changing</h3>
 Files still need attention, coming soon.
+<h3>Get Started</h3>
+  <ol>
+  <li>Install LAMP, WAMP or whatever to get PHP, MySQL </li>
+  <li>download code:  git clone github.com/henryrendleman/codeIgniterPlus</li>
+  </ol>
+  
