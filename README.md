@@ -18,3 +18,9 @@ Files still need attention, coming soon.
   <li>download code:  git clone github.com/henryrendleman/codeIgniterPlus</li>
   </ol>
   
+<h4>Changing the config files</h4>
+<ul>
+<li>/site_config.php update $base_url to your site</li>
+<li>robots.txt disallows everything, you might want to change that</li>
+<li>/application/config/database.php:  update this to to login to your db, username, database and password</li>
+</ul>
