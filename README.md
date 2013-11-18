@@ -6,6 +6,7 @@ Contains the following:
 <strong>Code Ignitor</strong>:  http://ellislab.com/codeigniter - Small footprint framework works well. <br>
 <strong>Data Mapper</strong>:  http://datamapper.wanwizard.eu/ - Active Record Type Data work<br>
 <strong>Template Library</strong>: - Allows for using a header and footer to keep from having to write and include every time.<br>
+<strong>Visual dBug for PHP</strong>: http://dbug.ospinto.com/ - A better visual on what your objects and structures look like
 <h3>JavaScript</h3>
 Custom form validation<br>
 jQuery & jQuery UI<br>
