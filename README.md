@@ -10,8 +10,6 @@ Contains the following:
 I wrote some custom form validation that still needs some work<br>
 jQuery & jQuery UI<br>
 font-awesome<br>
-<h3>Files still changing</h3>
-Files still need attention, coming soon.
 <h3>Get Started</h3>
   <ol>
   <li>Install LAMP, WAMP or whatever to get PHP, MySQL:  http://www.wampserver.com/en/</li>
