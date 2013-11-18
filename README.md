@@ -1,4 +1,4 @@
-PHP Framwork with Add on's
+PHP Framework with Add on's
 =================
 
 Contains the following:
@@ -7,7 +7,7 @@ Contains the following:
 <strong>Data Mapper</strong>:  http://datamapper.wanwizard.eu/ - Active Record Type Data work<br>
 <strong>Template Library</strong>: - Allows for using a header and footer to keep from having to write and include every time.<br>
 <h3>JavaScript</h3>
-I wrote some custom form validation that still needs some work<br>
+Custom form validation<br>
 jQuery & jQuery UI<br>
 font-awesome<br>
 <h3>Get Started</h3>
@@ -21,4 +21,10 @@ font-awesome<br>
 <li>/site_config.php update $base_url to your site</li>
 <li>robots.txt disallows everything, you might want to change that</li>
 <li>/application/config/database.php:  update this to to login to your db, username, database and password</li>
+</ul>
+
+<h3>Non-Standard Code</h3>
+<ul>
+<li>The file /site_config.php is not native Code Ignitor, Data Mapper or the Template.  It was created to allow the site config to be setup per server and not change in the code.  You should have all server specific variables in this file.</li>
+<li>Custom Form in JS is a start for form validation.</li>
 </ul>
