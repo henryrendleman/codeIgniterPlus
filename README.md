@@ -24,7 +24,8 @@ font-awesome<br>
 </ul>
 
 <h3>Non-Standard Code</h3>
+<p>These items are not native Code Ignitor, Data Mapper or the Template.</p>
 <ul>
-<li>The file /site_config.php is not native Code Ignitor, Data Mapper or the Template.  It was created to allow the site config to be setup per server and not change in the code.  You should have all server specific variables in this file.</li>
+<li>The file /site_config.php It was created to allow the site config to be setup per server and not change in the code.  You should have all server specific variables in this file.</li>
 <li>Custom Form in JS is a start for form validation.</li>
 </ul>
