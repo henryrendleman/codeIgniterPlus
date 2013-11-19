@@ -1,7 +1,7 @@
 PHP Framework with Add on's
 =================
 
-<h3>Contains the following:<h3>
+<h3>Contains the following:</h3>
 <strong>Code Ignitor</strong>:  http://ellislab.com/codeigniter - Small footprint framework works well. <br>
 <strong>Data Mapper</strong>:  http://datamapper.wanwizard.eu/ - Active Record Type Data work<br>
 <strong>Template Library</strong>: - Allows for using a header and footer to keep from having to write and include every time.<br>
