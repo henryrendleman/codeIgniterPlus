@@ -6,7 +6,7 @@ PHP Framework with Add on's
 <strong>Data Mapper</strong>:  http://datamapper.wanwizard.eu/ - Active Record Type Data work<br>
 <strong>Template Library</strong>: - Allows for using a header and footer to keep from having to write and include every time.<br>
 <strong>Visual dBug for PHP</strong>: http://dbug.ospinto.com/ - A better visual on what your objects and structures look like
-<strong>JavaScript</strong>: jQuery, jQuery UI, font-awesome, Custom form validation
+<p><strong>JavaScript</strong>: jQuery, jQuery UI, font-awesome, Custom form validation </p>
 <h2>Non-Standard Code</h2>
 <p>These items are not native Code Ignitor, Data Mapper, dBug or the Template.</p>
 <ul>
